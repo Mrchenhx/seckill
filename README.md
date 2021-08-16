@@ -3,7 +3,9 @@ Java秒杀商城
 
 # 单机部署
 下载安装配置 MySQL，导入并运行 SQL 文件
+
 下载安装配置 Redis
+
 下载安装配置 RocketMQ
 
 # 分布式
