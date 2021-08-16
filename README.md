@@ -1,5 +1,5 @@
 # seckill
-Java秒杀商城
+Java秒杀商城，基于 Spring Boot + Mybatis 实现的前后端分离系统。
 
 # 单机部署
 下载安装配置 MySQL，导入并运行 SQL 文件
